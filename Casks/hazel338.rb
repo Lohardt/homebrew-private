@@ -1,4 +1,4 @@
-cask 'hazel388' do
+cask 'hazel338' do
   version '3.3.8'
   sha256 :no_check
 
